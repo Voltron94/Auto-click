@@ -1,4 +1,4 @@
-## Classique Auto-clicker
+## Classic Auto-clicker
 
 ### First lunch
 
@@ -24,15 +24,15 @@ Line 62 for change the close button<br>
 
 [Virtual key List](https://learn.microsoft.com/fr-fr/windows/win32/inputdev/virtual-key-codes) 
 
-## Fabriqué avec
+## Create by
 
-Compliateur: MinGw
+Compiler: MinGw
 
 * [MinGw](https://www.mingw-w64.org) - Compliateur C/C++
 * [Vs code](https://code.visualstudio.com) - Editeur de textes
 
-## Auteurs
-Auteur :
+## Author
+Author :
 * **Voltron** 
 
 ## License
