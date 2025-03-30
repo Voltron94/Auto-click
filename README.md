@@ -7,7 +7,7 @@
 3) Now you can use the program<br>
 
 
-Before to lunch, please follow the instruction <br>
+Before to launch, please follow the instruction <br>
 
 ## How to use ?
 
