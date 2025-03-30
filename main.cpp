@@ -6,7 +6,7 @@ int main()
 {
     bool open = true;
     bool useMacro = true;
-    int speed = 7; // multiplié par 2 pour obtenir la vrai vitesse, en ms
+    int speed = 7; // multiplied by 2 to get the true speed, in ms
 
     INPUT input;    
     input.type = INPUT_MOUSE;
