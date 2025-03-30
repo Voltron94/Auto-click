@@ -24,7 +24,7 @@ Line 62 for change the close button<br>
 
 [Virtual key List](https://learn.microsoft.com/fr-fr/windows/win32/inputdev/virtual-key-codes) 
 
-## Create by
+## Create with
 
 Compiler: MinGw
 
