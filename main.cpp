@@ -11,11 +11,11 @@ int main()
     INPUT input;    
     input.type = INPUT_MOUSE;
     
-    std::cout << "Touche : "
-    << "\n ! Dès le premier click l'auto click se lancera !"
-    << "\n F : fermer l'auto click"
-    << "\n F + click : relancemement de l'auto-click"
-    << "\n P : Fermer le programme, désactiver la macro au préalable"
+    std::cout << "Touch : "
+    << "\n ! From the first click the auto click will start !"
+    << "\n Press F : pause the program"
+    << "\n F + click : restart the program"
+    << "\n P : Close the program"
     << std::endl;
 
     Sleep(4000); 
