@@ -3,7 +3,7 @@
 ### First launch
 
 1) Write the path of the project in the compilation.bat : start "" "your path"<br>
-2) Lunch the file <br>
+2) Launch the file <br>
 3) Now you can use the program<br>
 
 
