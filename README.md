@@ -1,31 +1,27 @@
-# Auto-click
+#Classique Auto-clicker
+
+### First lunch
+
+1) Write the path of the project in the compilation.bat : start "" "your path"
+2) Lunch the file 
+3) Now you can use the program
 
 
-# Titre du projet
-_(Small auto-click)_
+Before to lunch, please follow the instruction 
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+## How to use ?
 
-Se jeux contient 4 modes de jeux, a usage plutôt ludique, se projet est à but non lucratif et totalemement open source 
+! From the first click the auto click will start !
+Press F : pause the program
+F + click : restart the program
+P : Close the program
 
-## Pour commencer
+##Modification
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+Line 9 for change the speed
+line 32 for change the pause button
 
-### Installation
-
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
-
-## Démarrage
-
-Dites comment faire pour lancer votre projet
+Virtual key List https://learn.microsoft.com/fr-fr/windows/win32/inputdev/virtual-key-codes 
 
 ## Fabriqué avec
 
@@ -34,23 +30,10 @@ Compliateur: MinGw
 * [MinGw](https://www.mingw-w64.org) - Compliateur C/C++
 * [Vs code](https://code.visualstudio.com) - Editeur de textes
 
-
-## Versions
-Listez les versions ici 
-_exemple :_
-**Dernière version stable :** 0.1
-**Dernière version :** 0.1
-
 ## Auteurs
-Auteur du jeux :
-* **Voltron** _alias_ 
-
-Autre:
-*   Modèle gitHub **JulienRAVIA**  [Modèle disponible :](https://gist.github.com/JulienRAVIA/1cc6589cbf880d380a5bb574baa38811)
-
-
-_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
+Auteur :
+* **Voltron** 
 
 ## License
 
-Ce projet est Open source 
+Open source et no-copyright
