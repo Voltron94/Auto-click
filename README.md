@@ -37,4 +37,4 @@ Auteur :
 
 ## License
 
-Open source et no-copyright
+Open source and no-copyright
