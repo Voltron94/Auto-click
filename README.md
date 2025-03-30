@@ -1,4 +1,4 @@
-##Classique Auto-clicker
+## Classique Auto-clicker
 
 ### First lunch
 
@@ -16,7 +16,7 @@ Press F : pause the program<br>
 F + click : restart the program<br>
 P : Close the program<br>
 
-##Modification
+## Modification
 
 Line 9 for change the speed
 Line 32 and 56 for change the pause button
