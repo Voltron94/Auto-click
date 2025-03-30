@@ -18,11 +18,11 @@ P : Close the program<br>
 
 ## Modification
 
-Line 9 for change the speed
-Line 32 and 56 for change the pause button
-Line 62 for change the close button
+Line 9 for change the speed<br>
+Line 32 and 56 for change the pause button<br>
+Line 62 for change the close button<br>
 
-Virtual key List https://learn.microsoft.com/fr-fr/windows/win32/inputdev/virtual-key-codes 
+[Virtual key List](https://learn.microsoft.com/fr-fr/windows/win32/inputdev/virtual-key-codes) 
 
 ## Fabriqué avec
 
