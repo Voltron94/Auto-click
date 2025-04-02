@@ -3,7 +3,7 @@
 ### First launch
 
 /!\ Only for Win 8, 10 and 11
-Just launch the .exe file, in auto click file
+[Download link](https://www.mediafire.com/folder/m2f7gpn8gxqqf/auto_click)
 
 Before to launch, please follow the instruction <br>
 
