@@ -3,7 +3,7 @@
 ### First launch
 
 /!\ Only for Win 8, 10 and 11
-[Download link](https://www.mediafire.com/folder/m2f7gpn8gxqqf/auto_click)
+[Download link](https://www.mediafire.com/file/lm9vf3syhf6psa6/Auto-Click.exe/file)
 
 Before to launch, please follow the instruction <br>
 
